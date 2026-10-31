@@ -27,7 +27,7 @@ The agent will ask you to press a few buttons on the remote once, so the compute
 It shows you which apps it wants to remove and waits for your OK. To undo, ask it:
 **"Undo MinimalTV on my TV"**.
 
-## Night and day
+## Wallpapers
 
 | Night | Day |
 | --- | --- |
@@ -35,6 +35,15 @@ It shows you which apps it wants to remove and waits for your OK. To undo, ask i
 
 Optional live wallpapers with sound: rain at night, a waterfall by day. Click a picture to play
 it with sound.
+
+<details>
+<summary><b>Photo wallpapers</b> (built in, no setup)</summary>
+
+| Forest mist | Quiet cove |
+| --- | --- |
+| ![Home screen over a misty pine forest](docs/screenshots/home-forest.png) | ![Home screen over a rocky coastline](docs/screenshots/home-cove.png) |
+
+</details>
 
 <details>
 <summary><b>More screenshots</b></summary>
