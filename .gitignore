@@ -1,0 +1,34 @@
+# Local toolchain, downloads and notes
+tools/
+reference/
+scan/
+debloat/
+
+# App backups and logs from speedup/remove.sh
+speedup/backup/
+speedup/removed.log
+
+# Private settings for the TV (copy the *.example.json files and fill them in)
+config/*.json
+!config/*.example.json
+
+# Media built by scripts/prepare_scenes.sh (Pixabay licence: don't redistribute)
+scenes/
+*.mp4
+*.mp3
+*.ogg
+# ...except the README clips: the app's interface over the scenes, not the scenes themselves
+!docs/media/*.mp4
+
+# Build output and local machine settings
+launcher/.gradle/
+launcher/app/build/
+launcher/build/
+launcher/local.properties
+launcher/screens/
+launcher/screenshot.png
+launcher/shot-*.png
+*.apk
+*.keystore
+.idea/
+*.iml

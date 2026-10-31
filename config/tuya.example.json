@@ -1,0 +1,1 @@
+{"clientId": "Access ID of your Tuya IoT cloud project", "clientSecret": "its Access Secret", "deviceId": "the sensor's device ID", "endpoint": "openapi.tuyaus.com (Americas), openapi.tuyaeu.com (Europe), openapi.tuyain.com (India) or openapi.tuyacn.com (China)"}
